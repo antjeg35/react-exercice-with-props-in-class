@@ -4,7 +4,7 @@ import Persons from '../components/Persons/Persons';
 //import ErrorBoundary from '../components/ErrorBoundary/ErrorBoundary';
 import Cockpit from '../components/Cockpit/Cockpit';
 import withClass from '../hoc/withClass';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Auxi';
 import AuthContext from '../context/auth-context';
 
 class App extends Component {
